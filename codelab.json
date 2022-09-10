@@ -3,7 +3,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2022-09-10T06:06:45Z",
+  "updated": "2022-09-10T10:13:19Z",
   "id": "DiscoverSUTD-Guides",
   "duration": 54,
   "title": "DiscoverSUTD Guide",
@@ -21,5 +21,6 @@
     "web"
   ],
   "feedback": "https://github.com/OpenSUTD/guide/issues",
+  "ga": "G-1VZNYCC3VY",
   "url": "DiscoverSUTD-Guides"
 }
